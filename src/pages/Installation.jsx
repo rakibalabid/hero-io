@@ -1,19 +1,19 @@
 import React, { useEffect, useState } from 'react';
 import { getInstalledApps, removeFromStoredAppList } from '../utils/localStorage';
 import toast, { Toaster } from 'react-hot-toast';
-import Loading from '../components/Loading'; // ১. লোডিং কম্পোনেন্টটি ইম্পোর্ট করা হয়েছে
+import Loading from '../components/Loading';
 
 const Installation = () => {
     const [installedApps, setInstalledApps] = useState([]);
     const [sortBy, setSortBy] = useState("");
-    const [isLoading, setIsLoading] = useState(true); // ২. লোডিং স্টেট নেওয়া হয়েছে যা শুরুতে true থাকবে
+    const [isLoading, setIsLoading] = useState(true);
 
     // পেজ লোড হলে লোকাল স্টোরেজ থেকে ডাটা আনা
     useEffect(() => {
         const apps = getInstalledApps();
         setInstalledApps(apps);
 
-        // ৩. ডাটা সেট করা হয়ে গেলে লোডিং বন্ধ করে দেওয়া হয়েছে
+        // ৩. ডাটা সেট করা হয়ে গেলে লোডিং বন্ধ করে দেওয়া 
         setIsLoading(false); 
     }, []);
 
