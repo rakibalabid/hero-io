@@ -1,0 +1,384 @@
+[
+  {
+    "image": "https://picsum.photos/seed/music-player/300/200",
+    "title": "Music Player",
+    "companyName": "SoundWave Inc.",
+    "id": 1,
+    "description": "A powerful music player with offline support.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/chat-messenger/300/200",
+    "title": "Chat Messenger",
+    "companyName": "Connectify",
+    "id": 2,
+    "description": "Instant messaging app with end-to-end encryption.",
+    "size": 30,
+    "reviews": 2400,
+    "ratingAvg": 4.3,
+    "downloads": 800000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/fitness-tracker/300/200",
+    "title": "Fitness Tracker",
+    "companyName": "FitLife",
+    "id": 3,
+    "description": "Track your workouts and stay healthy.",
+    "size": 60,
+    "reviews": 900,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 440 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/food-delivery/300/200",
+    "title": "Food Delivery",
+    "companyName": "QuickBite",
+    "id": 4,
+    "description": "Order food from your favorite restaurants.",
+    "size": 55,
+    "reviews": 3200,
+    "ratingAvg": 4.2,
+    "downloads": 1000000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1250 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/travel-guide/300/200",
+    "title": "Travel Guide",
+    "companyName": "Wanderlust",
+    "id": 5,
+    "description": "Discover new places and plan trips.",
+    "size": 70,
+    "reviews": 1500,
+    "ratingAvg": 4.7,
+    "downloads": 450000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/shopping-deals/300/200",
+    "title": "Shopping Deals",
+    "companyName": "DealMart",
+    "id": 6,
+    "description": "Find the best deals online.",
+    "size": 40,
+    "reviews": 1800,
+    "ratingAvg": 4.1,
+    "downloads": 600000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/learning-app/300/200",
+    "title": "Learning App",
+    "companyName": "EduSmart",
+    "id": 7,
+    "description": "Online courses and tutorials.",
+    "size": 80,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 700000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/photo-editor/300/200",
+    "title": "Photo Editor",
+    "companyName": "PixEdit",
+    "id": 8,
+    "description": "Edit your photos like a pro.",
+    "size": 65,
+    "reviews": 2700,
+    "ratingAvg": 4.4,
+    "downloads": 900000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1210 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/video-player/300/200",
+    "title": "Video Player",
+    "companyName": "StreamX",
+    "id": 9,
+    "description": "High-quality video playback.",
+    "size": 50,
+    "reviews": 1300,
+    "ratingAvg": 4.3,
+    "downloads": 550000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 370 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/weather-forecast/300/200",
+    "title": "Weather Forecast",
+    "companyName": "SkyCast",
+    "id": 10,
+    "description": "Accurate weather predictions.",
+    "size": 25,
+    "reviews": 800,
+    "ratingAvg": 4.0,
+    "downloads": 300000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 180 }
+    ]
+  },
+
+  {
+    "image": "https://picsum.photos/seed/news-app/300/200",
+    "title": "News App",
+    "companyName": "DailyBuzz",
+    "id": 11,
+    "description": "Latest global news updates.",
+    "size": 35,
+    "reviews": 1600,
+    "ratingAvg": 4.2,
+    "downloads": 400000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 440 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/mobile-banking/300/200",
+    "title": "Mobile Banking",
+    "companyName": "SafeBank",
+    "id": 12,
+    "description": "Secure banking on the go.",
+    "size": 90,
+    "reviews": 2900,
+    "ratingAvg": 4.6,
+    "downloads": 1100000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1750 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/arcade-game/300/200",
+    "title": "Arcade Game",
+    "companyName": "FunPlay",
+    "id": 13,
+    "description": "Exciting arcade challenges.",
+    "size": 120,
+    "reviews": 5000,
+    "ratingAvg": 4.7,
+    "downloads": 2000000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/navigation-maps/300/200",
+    "title": "Navigation Maps",
+    "companyName": "RouteFinder",
+    "id": 14,
+    "description": "Find the best routes easily.",
+    "size": 85,
+    "reviews": 2200,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 890 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/calendar-planner/300/200",
+    "title": "Calendar Planner",
+    "companyName": "TimeWise",
+    "id": 15,
+    "description": "Organize your schedule efficiently.",
+    "size": 20,
+    "reviews": 600,
+    "ratingAvg": 4.1,
+    "downloads": 200000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 150 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/notes-keeper/300/200",
+    "title": "Notes Keeper",
+    "companyName": "NoteIt",
+    "id": 16,
+    "description": "Simple and fast note-taking.",
+    "size": 15,
+    "reviews": 700,
+    "ratingAvg": 4.3,
+    "downloads": 350000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/security-antivirus/300/200",
+    "title": "Security Antivirus",
+    "companyName": "SecureIT",
+    "id": 17,
+    "description": "Protect your device from threats.",
+    "size": 95,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "isTrending": true,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1680 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/ebook-reader/300/200",
+    "title": "Ebook Reader",
+    "companyName": "Readify",
+    "id": 18,
+    "description": "Read books anytime, anywhere.",
+    "size": 35,
+    "reviews": 1400,
+    "ratingAvg": 4.4,
+    "downloads": 500000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/ride-sharing/300/200",
+    "title": "Ride Sharing",
+    "companyName": "GoRide",
+    "id": 19,
+    "description": "Book rides quickly and safely.",
+    "size": 75,
+    "reviews": 2600,
+    "ratingAvg": 4.2,
+    "downloads": 850000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 950 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/online-radio/300/200",
+    "title": "Online Radio",
+    "companyName": "RadioWave",
+    "id": 20,
+    "description": "Stream live radio stations worldwide.",
+    "size": 28,
+    "reviews": 1000,
+    "ratingAvg": 4.3,
+    "downloads": 420000,
+    "isTrending": false,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 330 }
+    ]
+  }
+  
+]
